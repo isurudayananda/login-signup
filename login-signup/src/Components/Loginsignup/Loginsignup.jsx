@@ -11,6 +11,22 @@ const Loginsignup = () => {
         <div className="text"></div>
         <div className="underline"></div>
       </div>
+      <div className="inputs">
+        <div className="input">
+          <img src="" alt="" />
+          <input type="text" placeholder=''/>
+        </div>
+
+        <div className="input">
+          <img src="" alt="" />
+          <input type="text" placeholder=''/>
+        </div>
+
+        <div className="input">
+          <img src="" alt="" />
+          <input type="text" placeholder=''/>
+        </div>
+      </div>
 
     </div>
   )
