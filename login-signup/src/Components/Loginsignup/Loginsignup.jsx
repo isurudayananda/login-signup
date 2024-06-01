@@ -1,10 +1,11 @@
+import './Loginsignup.css'
 import React from 'react'
-import './login-signup.css'
 
-const Login-signup = () => {
+const Loginsignup = () => {
   return (
-    <div>Login-signup</div>
+    <div>Loginsignup</div>
   )
 }
 
-export default Login-signup
+export default Loginsignup;
+
