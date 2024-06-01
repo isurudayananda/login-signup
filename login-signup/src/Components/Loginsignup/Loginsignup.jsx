@@ -6,7 +6,13 @@ import password_icon from '../Assests/password.png'
 
 const Loginsignup = () => {
   return (
-    <div>Loginsignup</div>
+    <div className='container'>
+      <div className="header">
+        <div className="text"></div>
+        <div className="underline"></div>
+      </div>
+
+    </div>
   )
 }
 
