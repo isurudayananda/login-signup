@@ -47,6 +47,17 @@
     border-radius: 6px;
 }
 
+.dob{
+    display: flex;
+    align-items: center;
+    padding-left: 100px;
+    margin: auto;
+    width: 380px;
+    height: 80px;
+    background: #eaeaea;
+    border-radius: 6px;
+}
+
 .submit-container{
     display: flex;
     gap: 30px;
