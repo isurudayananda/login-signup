@@ -27,7 +27,10 @@ const Loginsignup = () => {
           <input type="password" placeholder="Password"/>
         </div>
       </div>
-
+      <div className="submit-container">
+        <div className="submit">SignUP</div>
+        <div className="login">Login</div>
+      </div>
     </div>
   )
 }
