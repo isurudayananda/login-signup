@@ -58,6 +58,10 @@
     border-radius: 6px;
 }
 
+.input img{
+    margin: 0px 30px;
+}
+
 .submit-container{
     display: flex;
     gap: 30px;
